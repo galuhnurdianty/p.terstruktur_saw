@@ -11,4 +11,8 @@ int main(){
 	double w1,w2,w3,w4,w5;
 	double maxc [5]= {maxc[0],maxc[4]};
 	double ha1,ha2,ha3;
+	
+	cout.setf(ios::fixed);
+	cout.setf(ios::showpoint);
+	cout.precision(4);
 }
