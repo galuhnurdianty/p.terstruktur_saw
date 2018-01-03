@@ -40,5 +40,10 @@ int main(){
 		cout << Ra1c[kedua1]<<" | ";
 		kedua1++;
 	}while(kedua1<5);cout<<endl;
+	int kedua2=0;
+	do{
+		cout << Ra2c[kedua2]<<" | ";
+		kedua2++;
+	}while(kedua2<5);cout<<endl;
 }
 
