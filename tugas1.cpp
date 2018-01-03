@@ -15,4 +15,11 @@ int main(){
 	cout.setf(ios::fixed);
 	cout.setf(ios::showpoint);
 	cout.precision(4);
+	
+	w1=5;
+	w2=3;
+	w3=4;
+	w4=4;
+	w5=2;
+	
 }
