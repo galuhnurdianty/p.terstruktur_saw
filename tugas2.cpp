@@ -11,6 +11,10 @@ int main(){
 	do{
 		cout << a1c[pertama1]<<" | ";
 		pertama1++;
-	}
+	}while(pertama1<5);cout<<endl;
+	int pertama2=0;
+	do{
+		cout << a2c[pertama2]<<" | ";
+		pertama2++;
 }
 
