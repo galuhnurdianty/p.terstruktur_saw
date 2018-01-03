@@ -69,5 +69,10 @@ int main(){
 		cout << RWa2c[ketiga2]<<" | ";
 		ketiga2++;
 	}while(ketiga2<5);cout<<endl;
+	int ketiga3=0;
+	do{
+		cout << RWa3c[ketiga3]<<" | ";
+		ketiga3++;
+	}while(ketiga3<5);cout<<endl;
 }
 
